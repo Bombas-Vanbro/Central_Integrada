@@ -2,20 +2,20 @@
 
 Portal único (`index.html`) que reúne as ferramentas internas da Vanbro: menu lateral à esquerda e cada ferramenta aberta num `iframe`.
 
-- **Repositório:** https://github.com/Jonatha-Vanbro/Central_Integrada (GitHub Pages, branch `main`, raiz)
+- **Repositório:** https://github.com/Bombas-Vanbro/Central_Integrada (GitHub Pages, branch `main`, raiz)
 - **Stack:** HTML estático + Bootstrap 5.3.3 + Bootstrap Icons 1.11.3 (CDN). Sem build.
 - **Arquivos:** `index.html` (tudo), `logo.png`, `favicon.png`.
 
 ## Ferramentas no menu (atributo `data-url`)
 | Ferramenta | Endereço |
 |---|---|
-| Agenda de Treinamentos | jonatha-vanbro.github.io/Agenda-de-Treinamentos/ |
-| Agenda de Tarefas – Engenharia | jonatha-vanbro.github.io/Agenda-de-Tarefas-Engenharia-/ |
-| Dashboard de Qualidade | jonatha-vanbro.github.io/dashboard-qualidade/ |
-| Controle de Materiais – Bobinagem | jonatha-vanbro.github.io/Controle-de-Materiais_Bobinagem/ |
-| Procedimentos de Trabalho | jonatha-vanbro.github.io/Procedimentos-de-Trabalho/ |
-| Contratos e Licitações | jonatha-vanbro.github.io/Controle-de-Contratos-e-Licita-es-/ |
-| Controle de Pedidos – AEGEA | jonatha-vanbro.github.io/Controle-de-Pedidos---AEGEA/ |
+| Agenda de Treinamentos | bombas-vanbro.github.io/Agenda-de-Treinamentos/ |
+| Agenda de Tarefas – Engenharia | bombas-vanbro.github.io/Agenda-de-Tarefas-Engenharia-/ |
+| Dashboard de Qualidade | bombas-vanbro.github.io/dashboard-qualidade/ |
+| Controle de Materiais – Bobinagem | bombas-vanbro.github.io/Controle-de-Materiais_Bobinagem/ |
+| Procedimentos de Trabalho | bombas-vanbro.github.io/Procedimentos-de-Trabalho/ |
+| Contratos e Licitações | bombas-vanbro.github.io/Controle-de-Contratos-e-Licita-es-/ |
+| Controle de Pedidos – AEGEA | bombas-vanbro.github.io/Controle-de-Pedidos---AEGEA/ |
 | Inspeção de Matéria-Prima | App da Web do Apps Script (URL `script.google.com/.../exec`) |
 
 ## Regras de trabalho
