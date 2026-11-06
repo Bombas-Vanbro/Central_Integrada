@@ -17,6 +17,7 @@ Portal único (`index.html`) que reúne as ferramentas internas da Vanbro: menu 
 | Contratos e Licitações | bombas-vanbro.github.io/Controle-de-Contratos-e-Licita-es-/ |
 | Controle de Pedidos – AEGEA | bombas-vanbro.github.io/Controle-de-Pedidos---AEGEA/ |
 | Inspeção de Matéria-Prima | App da Web do Apps Script (URL `script.google.com/.../exec`) |
+| PGR – Gestão de Riscos | App da Web do Apps Script (URL `script.google.com/.../exec`; código em `Documents\pgr`) |
 
 ## Regras de trabalho
 - Ao incluir uma ferramenta nova, **não alterar nada do que já está pronto**: só acrescentar o item de menu.
